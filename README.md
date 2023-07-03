@@ -1,4 +1,4 @@
-## Μέτρηση οχημάτων που διέρχονται από στατικό σημείο με χρήση κάμερας.
-1.	Πρέπει να χρησιμοποιηθεί ακουστική και οπτική πληροφορία σε πραγματικό χρόνο. 
-2.	Πρέπει εκτός από την υλοποίηση της μεθοδολογίας, ο κώδικας να εκτελείται σε online mode (realtime).
-3.	Το evaluation πρεπει να γίνει σε 10 videos με συγκεκριμένα πλήθη οχημάτων και το αναφερόμενο σφάλμα να είναι το mean absolute error.
+## Counting vehicles passing through a static point using a camera.
+1. Real-time audio and visual information must be used.
+2. In addition to implementing the methodology, the code must be executed in online mode (realtime).
+3. The evaluation must be done on 10 videos with specific numbers of vehicles and the reported error must be the mean absolute error.
